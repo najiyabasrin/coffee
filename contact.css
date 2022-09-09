@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Balinese&family=Pacifico&family=Permanent+Marker&family=Rubik+Dirt&family=Rubik+Maze&family=Satisfy&display=swap');
+
+body{
+    background-image: url("./image/last.jpg");
+    background-size: cover;
+}
+h1{
+    /* text-align: center; */
+    margin-top: 150px;
+    margin-left: 50px;
+}
+p{
+    color: white;
+    font-size: x-large;
+    font-family: 'Pacifico', cursive;
+}
+div{
+    margin-left: 150px;
+}
+header{
+    margin-left: 800px;
+}

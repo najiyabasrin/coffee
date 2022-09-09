@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Noto+Serif+Balinese&family=Pacifico&family=Permanent+Marker&family=Rubik+Dirt&family=Rubik+Maze&family=Satisfy&display=swap');
+body{
+    background-image: url("./image/background.jpg");
+    background-size: cover;
+}
+
+#a{
+  color: white;
+  width: 30%;
+  margin-left: 944px;
+}
+
+.video-container {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+.video-container video {
+  width: 301%;
+  height: 135%;
+  left: 119px;
+  top: 50px;
+  position: absolute;
+  object-fit: cover;
+  z-index: 0;
+}
+
+/* Just styling the content of the div, the *magic* in the previous rules */
+.video-container .caption {
+  
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  color:white;
+  padding: 10px;
+  top: 200px;
+  left: 155px;
+  width: 277%;
+  font-family: 'Dancing Script', cursive;
+  font-size: xx-large;
+}
+h1{
+  text-align: center;
+  color: bisque;
+  font-size: xx-large;
+  font-family: 'Satisfy', cursive; ;
+}

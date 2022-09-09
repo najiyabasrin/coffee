@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Ms+Madi&family=Noto+Serif+Balinese&family=Pacifico&family=Permanent+Marker&family=Rubik+Dirt&family=Rubik+Maze&family=Satisfy&display=swap');
+body{
+    background-image: url("./image/background.jpg");
+    background-size: cover;
+}
+
+
+#z{
+    /* background-color: bisque; */
+    width: 75%;
+    color: bisque;
+    margin-top: 50px;
+    margin-left: 150px;
+    text-align: center;
+    font-size: xx-large;
+    font-family:  'Pacifico', cursive;
+}
+h1{
+    color: white;
+    margin-left: 50px;
+    font-family: cursive;
+    text-align: center;
+}
+.abc{
+    background-color: grey;
+    /* display: flex; */
+    /* justify-content:space-evenly; */
+    width: 75%;
+    height: 400px;
+    margin-left: 150px;
+    /* align-items: center; */
+    padding: 25px;
+    font-size: x-large;
+    font-family:'Ms Madi', cursive;
+    color:white;
+}
+header{
+    margin-left: 800px;
+    color: white;
+}
+
+
